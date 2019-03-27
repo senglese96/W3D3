@@ -1,0 +1,16 @@
+html, body, h1, h2, header, li{
+    margin: inherit;
+    padding: inherit;
+    border: inherit;
+    font: inherit;
+    text-align: inherit;
+    text-decoration: inherit;
+}
+
+body {
+    line-height: 1.5;
+}
+
+img {
+    width: 100%;
+}
